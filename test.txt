@@ -9,6 +9,6 @@ Third refactoring commit
 Fourth refactoring commit
 Some changes
 
-First remote commit
+First remote commit changed
 
 Second remote commit
