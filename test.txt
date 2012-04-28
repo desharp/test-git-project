@@ -7,3 +7,8 @@ Second refactoring commit
 Third refactoring commit
 
 Fourth refactoring commit
+Some changes
+
+First remote commit
+
+Second remote commit
