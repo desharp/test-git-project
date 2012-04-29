@@ -12,6 +12,8 @@ Alek Change
 
 Alek Change 2 Modified
 
+Alek Change 3
+
 Some changes
 
 First remote commit changed
