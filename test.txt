@@ -1,5 +1,21 @@
 Hello world!!!
 
+First refactoring commit
+
+Second refactoring commit
+
+Third refactoring commit
+
+Fourth refactoring commit
+
+Alek Change
+
+Alek Change 2 Modified
+
+Alek Change 3.0.0.1
+
+Some changes
+
 First remote commit changed
 
 Second remote commit
