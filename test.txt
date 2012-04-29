@@ -14,6 +14,14 @@ Alek Change 2 Modified
 
 Alek Change 3.0.0.1
 
+Alek Change 4
+
+Alek Change 5
+
+Alek Change 6
+
+Alek Change 7
+
 Some changes
 
 First remote commit changed
